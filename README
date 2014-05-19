@@ -8,7 +8,7 @@ Oh and it also does SHA1 verification on them now :D
 
 Maybe when I stop being such a lazy shit I'll add more features
 
-As for now it's pretty badly written (sed chaining, piping to .txt files) and lots of commented out functiosn
+As for now it's pretty badly written (sed chaining, piping to .txt files) and lots of commented out functions
 
 Other than that it's (I think) fairly well documented, for what it does anyway.
 
