@@ -1,17 +1,37 @@
-0.0.2
-___________________________________________
+0.0.3 "Still Alive"
+_____________________________________________________
+Switched to pbzip2 (parallel bzip2) for speed
+
+We have our own toolset, now package-pleb can't break itself!
+
+Renamed the file names to make their functions more obvious
+
+Fixed a ton of typos (me fail English? that's unpossible!)
+
+Switched to hard-coded IP address, in case we have no DNS
+_____________________________________________________
+
+
+0.0.2 "THAT IS NOT HOW YOU BASH SCRIPT OH GOD"
+_____________________________________________________
+
 wget-retry.sh (yay, basic bash logic!)
-CHANGELOG
-___________________________________________
+
+WE HAVE A CHANGELOG!
+_____________________________________________________
 
 
-0.0.1
-___________________________________________
+0.0.1 "It's a bit less shit now!"
+_____________________________________________________
+
 Some basic SHA1 hash checking
-___________________________________________
+
+_____________________________________________________
 
 
-0.0.0
-___________________________________________
-Oh god what have I done I am so sorry for making this\
-___________________________________________
+0.0.0 "May god have mercy on all of us"
+_____________________________________________________
+
+Oh god what have I done I am so sorry for making this
+
+_____________________________________________________
