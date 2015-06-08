@@ -1,0 +1,4 @@
+This is Pleb remote! it's an extension of Package-Pleb designed to let you offload compile operations to a remote system
+It's a pretty huge WIP
+Partially because we want to deal with bouncing SSH connections around and curling dynamic IP's and other stuff
+Though I've included all that here of course
